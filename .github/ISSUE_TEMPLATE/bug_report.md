@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a BlissRoms source bug report
+about: Create a BlissRoms-x86 source bug report
 title: "[BUG]"
 labels: bug
 assignees: ''
