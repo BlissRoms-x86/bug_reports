@@ -1,13 +1,13 @@
 ---
 name: Feature request
-about: Suggest a feature for BlissRoms
+about: Suggest a feature for BlissRoms-x86
 title: "[FR]"
 labels: feature-request
 assignees: ''
 
 ---
 
-<!-- If something on our ROM is broken, this is not the right template. -->
+<!-- If something on our OS is broken, this is not the right template. -->
 <!-- Instead, please fill out the Bug report template right above this template. -->
 
 **Describe the feature:**
@@ -15,7 +15,7 @@ assignees: ''
 
 **Links to commits (if applicable):**
 <!-- If the feature is already available elsewhere, please link them here. -->
-<!-- If there's a project with ROM-side patches, please link the project. -->
+<!-- If there's a project with ROM/OS-side patches, please link the project. -->
 
 **Additional information**
 <!-- Add any other information or screenshots about the feature request here.-->
